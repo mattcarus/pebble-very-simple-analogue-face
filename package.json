@@ -1,0 +1,24 @@
+{
+    "author": "mattcarus@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "very-simple-analogue-face",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Very Simple Analogue Face",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "28274c03-7f8b-4d1f-8d73-8811d36d0fb7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
